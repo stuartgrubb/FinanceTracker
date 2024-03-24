@@ -17,7 +17,7 @@ This Excel workbook is designed to help track your expenses, provide insights in
 
 
 ## Getting Started
-1. Download a copy of the workbook from the [Releases](https://github.com/stuartgrubb/FinanceTracker/Releases) section.
+1. Download a copy of the workbook from the [Releases](https://github.com/stuartgrubb/FinanceTracker/releases) section.
 
 2. Right click the file &#8594; select **Properties** &#8594; tick **Unblock** &#8594; select **Apply** &#8594; select **Ok**
 
